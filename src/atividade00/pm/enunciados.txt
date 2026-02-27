@@ -25,7 +25,7 @@ apenas uma vez em Z. Os valores de n e m sao lidos pelo teclado.
 
     • sexo (masculino e feminino)
     • cor dos olhos (azuis, verdes ou castanhos)
-    • cor dos cabelos ( louros, castanhos, pretos)
+    • cor dos cabelos (louros, castanhos, pretos)
     • idade
 
 Faça um algoritmo que determine e escreva:
